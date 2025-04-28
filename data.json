@@ -1,0 +1,35 @@
+[
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "phone": "+1 234 567 890",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "NY",
+        "zip": "10001"
+      },
+      "company": {
+        "name": "ABC Corp",
+        "position": "Software Engineer",
+        "department": "Development"
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "phone": "+1 234 567 891",
+      "address": {
+        "street": "456 Oak St",
+        "city": "Somewhere",
+        "state": "CA",
+        "zip": "90001"
+      },
+      "company": {
+        "name": "XYZ Ltd",
+        "position": "Product Manager",
+        "department": "Marketing"
+      }
+    }
+  ]
+  
